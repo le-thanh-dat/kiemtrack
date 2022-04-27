@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: auto;   
+}
+header{
+    height: 300px;
+    width: 100%;
+    
+    text-align: center ;
+   
+   
+}
+footer{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    
+}
+section{
+    height: 50px;
+    width: 100%;
+    
+}
